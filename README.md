@@ -35,9 +35,9 @@ Before running this project, make sure you have installed:
 3. **Add accounts in the token.txt file. Example:**
 
     ```plaintext
-    Account1::token
-    Account2::token
-    Account3::token
+    Account1:token
+    Account2:token
+    Account3:token
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
