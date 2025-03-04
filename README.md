@@ -30,7 +30,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install axios https-proxy-agent random-useragent
+    npm install cloudscraper https-proxy-agent
 
 3. **Add accounts in the token.txt file. Example:**
 
